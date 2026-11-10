@@ -1,1 +1,11 @@
 .DS_Store
+
+# Local editor and container environment state
+/.bash_history
+/.cache/
+/.copilot/
+/.dotnet/
+/.gitconfig
+/.ssh/
+/.vscode-server/
+/.vscode/settings.json
